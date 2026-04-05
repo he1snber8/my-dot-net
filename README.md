@@ -1,2 +1,1 @@
-# my-dot-net
-Some description
+Readme content
